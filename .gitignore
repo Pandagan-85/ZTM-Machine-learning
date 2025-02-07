@@ -2,3 +2,7 @@
 
 # OS X stuff
 *.DS_Store
+
+bulldozer-price-prediction-project/data/bluebook-for-bulldozers/train_tmp.csv
+bulldozer-price-prediction-project/data/bluebook-for-bulldozers/Train.csv
+bulldozer-price-prediction-project/data/bluebook-for-bulldozers/TrainAndValid.csv
